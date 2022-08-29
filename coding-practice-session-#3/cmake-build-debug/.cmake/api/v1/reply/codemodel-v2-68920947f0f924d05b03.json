@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KickStart3_2022",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KickStart3_2022::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KickStart3_2022-Debug-16f9be1e66c15250bf84.json",
+					"name" : "KickStart3_2022",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vladnitu/Desktop/TUDelft/Year1/competitive-programming-C++/google-kickstart-2022/coding-practice-session-#3/cmake-build-debug",
+		"source" : "/Users/vladnitu/Desktop/TUDelft/Year1/competitive-programming-C++/google-kickstart-2022/coding-practice-session-#3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
